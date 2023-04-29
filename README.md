@@ -1,7 +1,9 @@
 ### Hi there 👋
 🌱 I’m currently learning Cloud <br>
-📫 How to reach me vasanthabalaji08@gmail.com
-
+📫 How to reach me vasanthabalaji08@gmail.com <br>
+🔭 I’m currently working on ... Cloud projects.....<br>
+💬 Ask me about ...<br>
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,docker,git,github,kubernetes,linux,nginx,vscode)](https://skillicons.dev)
 
 <!--
 **vasanthabalaji45/vasanthabalaji45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
