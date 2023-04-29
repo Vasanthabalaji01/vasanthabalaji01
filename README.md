@@ -3,7 +3,20 @@
 📫 How to reach me vasanthabalaji08@gmail.com <br>
 🔭 I’m currently working on ... Cloud projects.....<br>
 💬 Ask me about ...<br>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,docker,git,github,kubernetes,linux,nginx,vscode)](https://skillicons.dev)
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+<details>
+  <summary>Github timespend⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=vasanthabalaji45&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthabalaji45&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <!--
 **vasanthabalaji45/vasanthabalaji45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
