@@ -1,15 +1,12 @@
 ### Hi there 👋
 🌱 I’m currently learning Cloud <br>
-📫 How to reach me vasanthabalaji08@gmail.com <br>
+📫 How to reach me vasanthabalajik0@gmail.com <br>
 🔭 I’m currently working on ... Cloud projects.....<br>
 💬 Ask me about ...<br>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,docker,git,github,kubernetes,linux,nginx,vscode)](https://skillicons.dev)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 <details>
   <summary>Github timespend⚡</summary>
