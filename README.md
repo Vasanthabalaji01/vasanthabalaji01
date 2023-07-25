@@ -3,6 +3,7 @@
 📫 How to reach me vasanthabalajik0@gmail.com <br>
 🔭 I’m currently working on ... Cloud projects.....<br>
 💬 Ask me about ...<br>
+[⚡ power up ](https://xmind.works/share/DBnjksnb)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,bash,py,docker,git,github,kubernetes,linux,nginx,vscode)](https://skillicons.dev)
 
