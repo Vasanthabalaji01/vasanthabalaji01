@@ -2,8 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtlY21iN2ptYzlsOWEweWxyeTI0dTR2eGF2NTRtbzF2OHF1Y2tldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wwgamp8bOsx8byvKTi/giphy.gif"  />
 </div>
 
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/vasanthabalaji/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -19,23 +17,15 @@
   </a>
 </div>
 
-
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthabalaji01.Vasanthabalaji01&left_color=aquamarine&right_color=black"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthabalaji01.Vasanthabalaji01&left_color=aquamarine&right_color=black"/>
 </div>
 
 <h3 align="left">👩‍💻  I'm vasanthabalaji</h3>
 
-
-
 <p align="left"><br> 🔭 I’m working in understanding of Cloud & Security<br> 📚 I'm currently learning AWS SAACO3<br> ⚡ In my free time I create content</p>
 
-
-
 <h3 align="left">🛠 Language & Tools I could handle</h3>
-
-
 
 <div align="left">
   <h4 align="left">cloud</h4>
@@ -139,14 +129,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-
-
 <h3 align="left"></h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vasanthabalaji01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
