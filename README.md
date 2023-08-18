@@ -25,12 +25,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthabalaji01.Vasanthabalaji01&left_color=aquamarine&right_color=black"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
