@@ -23,7 +23,7 @@
 
 <h3 align="left">👩‍💻  I'm vasanthabalaji</h3>
 
-<p align="left"><br> 🔭 I’m working in understanding of Cloud & Security<br> 📚 I'm currently learning AWS SAACO3<br> ⚡ In my free time I create content</p>
+<p align="left"><br> 🔭 I’m working in understanding of Cloud & Security<br> 📚 I'm currently learning Tech in all Aspects <br> ⚡ In my free time I create content</p>
 
 <h3 align="left">🛠 Language & Tools I could handle</h3>
 
