@@ -18,15 +18,18 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthabalaji01.Vasanthabalaji01&left_color=aquamarine&right_color=black"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthabalaji01.Vasanthabalaji01&left_color=grey&right_color=black"/>
 </div>
 
-<h3 align="left">👩‍💻  I'm vasanthabalaji</h3>
 
-<p align="left"><br> 🔭 I’m working in understanding of Cloud & Security<br> 📚 I'm currently learning Tech in all Aspects <br> ⚡ In my free time I create content</p>
+<h3 align="center">👩‍💻  I'm vasanthabalaji</h3>
 
-<h3 align="left">🛠 Language & Tools I could handle</h3>
+<p align="center"><br> 🔭 I’m working in understanding of Cloud & Security<br> 📚 I'm currently learning Tech in all Aspects <br> ⚡ In my free time I create content</p>
 
+<h3 align="center">🛠 Language & Tools I could handle</h3>
+
+
+<div align="center">
 <table>
   <tr>
     <td>
@@ -181,6 +184,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vasanthabalaji01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
