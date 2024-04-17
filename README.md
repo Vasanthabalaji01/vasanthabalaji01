@@ -17,10 +17,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vasanthabalaji01.Vasanthabalaji01&left_color=grey&right_color=black"/>
-</div>
-
 <h3 align="center">👩‍💻  I'm vasanthabalaji</h3>
 
 <p align="center"><br> 🔭 I’m working in understanding of Cloud & Security<br> 📚 I'm currently learning Tech in all Aspects <br> ⚡ In my free time I create content</p>
