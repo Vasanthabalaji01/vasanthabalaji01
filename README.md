@@ -16,10 +16,7 @@
   <a href="https://www.instagram.com/all.whizz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</div>
-
-<p align="center"><br> 🔭 I’m working in understanding of Cloud & Security<br> 📚 I'm currently learning Tech in all Aspects <br> ⚡ I create content </p
-                                                                                                                                                                    
+</div>                                                                                                                                                              
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vasanthabalaji01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
