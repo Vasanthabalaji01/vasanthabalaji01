@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="profile-gif.gif" alt="Profile Cloudexplorer"  />
+  <img src="profile-gif.gif" alt="Profile Cloudexplorer"/>
 </div>
 
 <div align="center">
