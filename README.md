@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img src="" height="220" alt="Profile Cloudexplorer"  />
+  <img src="profile-gif.gif" alt="Profile Cloudexplorer"  />
 </div>
 
 <div align="center">
