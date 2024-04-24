@@ -1,5 +1,3 @@
-<h1 align="center">👩‍💻  I'm Vasanthabalaji</h1>
-
 <br>
 <div align="center">
   <img src="profile-gif.gif" alt="Profile Cloudexplorer"  />
