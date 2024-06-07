@@ -13,7 +13,7 @@
   <a href="https://medium.com/@vasanthabalajik0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="https://www.instagram.com/all.whizz" target="_blank">
+  <a href="https://www.instagram.com/mrcloudexplorer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>                                                                                                                                                              
