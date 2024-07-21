@@ -28,7 +28,6 @@
     <img src="https://streak-stats.demolab.com?user=Vasanthabalaji01&theme=shadow-orange&hide_border=true&border_radius=4.9&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
 </div>
-  -->
 <br>
 <div align="center">
   <a href="https://github.com/vasanthabalaji01" target="_blank">
@@ -36,3 +35,4 @@
     <img src="https://img.shields.io/github/stars/vasanthabalaji01?style=social" alt="GitHub stars" />
   </a>
 </div>
+-->
